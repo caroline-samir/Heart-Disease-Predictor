@@ -1,0 +1,8 @@
+Final Baseline Model Evaluation:
+
+|                              |   Accuracy |   Precision |   Recall |   F1-score |   AUC-score |
+|:-----------------------------|-----------:|------------:|---------:|-----------:|------------:|
+| Logistic Regression          |     0.8098 |      0.8056 |   0.8286 |     0.8169 |      0.8954 |
+| Decision Tree                |     0.8780 |      0.8448 |   0.9333 |     0.8869 |      0.9480 |
+| Random Forest                |     0.9024 |      0.8899 |   0.9238 |     0.9065 |      0.9500 |
+| Support Vector Machine (SVM) |     0.8585 |      0.8455 |   0.8857 |     0.8651 |      0.9258 |
