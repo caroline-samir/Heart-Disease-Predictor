@@ -1,0 +1,15 @@
+Tools to be Used:
+● Programming Languages: Python
+● Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/Keras (optional)
+● Dimensionality Reduction & Feature Selection: PCA, RFE, Chi-Square Test
+● Supervised Models: Logistic Regression, Decision Trees, Random Forest, SVM
+● Unsupervised Models: K-Means, Hierarchical Clustering
+● Model Optimization: GridSearchCV, RandomizedSearchCV
+
+Requirements and Steps
+1 - Data Preprocessing & Cleaning
+2 - Dimensionality Reduction - PCA (Principal Component Analysis)
+3 - Feature Selection
+4 - Supervised Learning - Classification Models
+5 - Unsupervised Learning - Clustering
+6 - Hyperparameter Tuning
