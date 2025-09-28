@@ -1,0 +1,41 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+.tox/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# secrets / local environment files (keep out of repo)
+.env
+.env.* 
+secrets.json
